@@ -1,7 +1,29 @@
 .app {
   background-color: #f0f4ff;
+  background: linear-gradient(to right, #f9d976, #f39f86, #a1c4fd);
   min-height: 100vh;
   text-align: center;
   padding-top: 80px;
+}
+
+.title {
+  color: #1b3a8a;
+}
+
+.subtitle {
+  color: #7a1f6b;
+}
+
+.section-title {
+  color: #0b6e4f;
+  margin-top: 24px;
+}
+
+.info-text {
   color: #222;
+}
+
+.update-text {
+  color: #a61b1b;
+  font-weight: 600;
 }
