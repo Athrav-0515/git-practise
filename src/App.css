@@ -1,4 +1,7 @@
 .app {
+  background-color: #f0f4ff;
+  min-height: 100vh;
   text-align: center;
-  margin-top: 120px;
+  padding-top: 80px;
+  color: #222;
 }
