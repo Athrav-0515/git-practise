@@ -7,23 +7,27 @@
 }
 
 .title {
-  color: #1b3a8a;
+  color: #0f2a75;
 }
 
 .subtitle {
-  color: #7a1f6b;
+  color: #6c1a63;
 }
 
 .section-title {
-  color: #0b6e4f;
+  color: #0a5a42;
   margin-top: 24px;
 }
 
 .info-text {
-  color: #222;
+  color: #1f1f1f;
 }
 
 .update-text {
-  color: #a61b1b;
+  color: #8f1515;
   font-weight: 600;
+}
+
+.extra-text {
+  color: #123b7a;
 }

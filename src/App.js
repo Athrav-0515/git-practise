@@ -13,6 +13,10 @@ function App() {
 
       <h2 className="section-title">New Update</h2>
       <p className="update-text">Added a multicolor background and colorful text styles.</p>
+
+      <h2 className="section-title">Additional Information</h2>
+      <p className="extra-text">This page now includes updated colors and a new information section.</p>
+      <p className="extra-text">Next step: You can customize text and colors anytime.</p>
     </div>
   );
 }
